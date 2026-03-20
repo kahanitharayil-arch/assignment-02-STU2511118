@@ -1,0 +1,59 @@
+[
+  {
+    "_id": "ELEC1001",
+    "name": "Samsung 55-inch 4K Smart TV",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 45999,
+    "specifications": {
+      "resolution": "4K UHD",
+      "display_type": "LED",
+      "screen_size": "55 inches",
+      "voltage": "220-240V"
+    },
+    "warranty": {
+      "period_years": 2,
+      "type": "Manufacturer"
+    },
+    "features": ["Smart TV", "WiFi", "Bluetooth", "HDR10"],
+    "stock": 25
+  },
+
+  {
+    "_id": "CLOT2001",
+    "name": "Men's Cotton Casual Shirt",
+    "category": "Clothing",
+    "brand": "Levis",
+    "price": 1999,
+    "sizes_available": ["S", "M", "L", "XL"],
+    "colors_available": ["Blue", "Black", "White"],
+    "material": "100% Cotton",
+    "care_instructions": {
+      "wash": "Machine wash",
+      "temperature": "30C",
+      "iron": "Medium heat"
+    },
+    "stock": 120
+  },
+
+  {
+    "_id": "GROC3001",
+    "name": "Organic Almond Milk",
+    "category": "Groceries",
+    "brand": "Urban Platter",
+    "price": 350,
+    "expiry_date": "2024-12-20",
+    "nutrition": {
+      "calories": 60,
+      "protein_g": 2,
+      "fat_g": 2.5,
+      "carbohydrates_g": 8
+    },
+    "ingredients": ["Almonds", "Water", "Sea Salt"],
+    "storage": {
+      "type": "Refrigerated",
+      "temperature": "4C"
+    },
+    "stock": 80
+  }
+]
